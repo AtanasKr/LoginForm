@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901321081025",
+    "firebase_url": "https://logindemo-888ed.firebaseio.com",
+    "project_id": "logindemo-888ed",
+    "storage_bucket": "logindemo-888ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901321081025:android:a2416b76e5833a3c",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901321081025-qrgbpg32hq60su1shg7vo4n9lmi2m44t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHQ3G6iC24cy2L83x9vHqUDKMiVD8IBIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901321081025-qrgbpg32hq60su1shg7vo4n9lmi2m44t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
