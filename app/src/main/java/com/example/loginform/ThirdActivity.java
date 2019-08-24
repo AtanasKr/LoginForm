@@ -48,7 +48,7 @@ public class ThirdActivity extends AppCompatActivity {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()) {
-                            Toast.makeText(ThirdActivity.this,"Reggistration is complete",Toast.LENGTH_SHORT).show();
+                            Toast.makeText(ThirdActivity.this,"Registration is complete",Toast.LENGTH_SHORT).show();
                             Intent intent4 = new Intent(ThirdActivity.this,MainActivity.class);
                             startActivity(intent4);
 
